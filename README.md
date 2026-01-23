@@ -20,8 +20,8 @@ Sou estudante e tenho base em desenvolvimento e dados
 
 ### 🌐 Me encontra por aí
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LINKEDIN_AQUI](https://www.linkedin.com/in/maria-paula-porto-445a50212/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LINKEDIN_AQUI](https://www.linkedin.com/in/maria-paula-porto-445a50212/)) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([mariapaula_porto2162](https://ptb.discord.com/channels/@me))
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([mariapaula_porto2162](https://ptb.discord.com/channels/@me))
+
 
 
