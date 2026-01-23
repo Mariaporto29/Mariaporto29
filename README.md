@@ -1,7 +1,7 @@
-## Hey! 👋
+## Hey! 
 
 Meu nome é Maria Porto  
-Sou estudante e tenho base em desenvolvimento e dados 🚀  
+Sou estudante e tenho base em desenvolvimento e dados  
 
 ### 🧠 O que estou aprendendo
 - SQL
@@ -17,8 +17,11 @@ Sou estudante e tenho base em desenvolvimento e dados 🚀
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIOAQUI&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIOAQUI&layout=compact&theme=dark)
+
+### 📊 GitHub Stats
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+
+### 💻 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark)
 
