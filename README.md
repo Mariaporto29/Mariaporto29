@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey! 👋
 
-<!--
-**Mariaporto29/Mariaporto29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Porto  
+Sou estudante e tenho base em desenvolvimento e dados 🚀  
 
-Here are some ideas to get you started:
+### 🧠 O que estou aprendendo
+- SQL
+- PHP
+- Python
+- Power BI
+- Lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias que já usei
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIOAQUI&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIOAQUI&layout=compact&theme=dark)
+
