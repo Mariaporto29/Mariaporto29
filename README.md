@@ -18,10 +18,10 @@ Sou estudante e tenho base em desenvolvimento e dados
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
 
+### 🌐 Me encontra por aí
 
-### 📊 GitHub Stats
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([LINKEDIN_AQUI](https://www.linkedin.com/in/maria-paula-porto-445a50212/))
 
-### 💻 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark)
+
+
 
