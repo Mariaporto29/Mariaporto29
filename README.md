@@ -20,8 +20,6 @@ Tenho interesse em evoluir na área de dados, unindo desenvolvimento e análise 
 
 ## 🚀 Tecnologias que utilizo
 
-## 🚀 Tecnologias
-
 ### 📊 Dados
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
