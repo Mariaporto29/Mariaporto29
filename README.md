@@ -2,7 +2,8 @@
 
 Me chamo Maria Porto  
 
-Atualmente sou estagiária em Análise de Dados, com foco em transformar dados em informações úteis para tomada de decisão.
+Atualmente atuo como Assistente de PCP/TI, com foco em análise de dados, automação de processos e desenvolvimento de rotinas ETL para transformar dados em informações úteis à tomada de decisão.
+
 
 Tenho interesse em evoluir na área de dados, unindo desenvolvimento e análise para criar soluções eficientes.
 
